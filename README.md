@@ -1,1 +1,1 @@
-# Sales-Dashboard
+In an effort to analyze and visualize key sales performance metrics, I developed an interactive Sales Dashboard. The goal was to provide a comprehensive overview of customer count, profit trends, sales distribution across states and categories, and top-performing customers.
